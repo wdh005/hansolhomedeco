@@ -153,7 +153,7 @@ footer .btm ul { padding: 32px 0 14px;}
 footer .btm li { position: relative; padding: 0 10px; display: inline-block; color: #fff; font-size: 14px;}
 footer .btm li:after { content: ""; width: 1px; height: 8px; position: absolute; background: #70767a; right: 0; top: 50%; margin-top: -4px;}
 footer .btm li:last-child::after { display: none;}
-footer .btm address { color: #fff; font-size: 15px;}
+footer .btm address { color: #fff; font-size: 14px;}
 
 
 
